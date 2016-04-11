@@ -1,0 +1,22 @@
+{
+    "name": "zsikta/laravel-random-model",
+    "description": "Laravel package for get a random model from database.",
+    "version": "v0.1.0",
+    "license": "MIT",
+    "keywords": ["laravel", "random", "model"],
+	"homepage": "https://github.com/zsikta/laravel-random-model",
+    "autoload": {
+        "psr-4": {
+            "ZsikTa\\LaravelRandomModel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tamas Zsikai",
+            "email": "zsikai.tamas@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
